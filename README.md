@@ -1,6 +1,6 @@
 # This is repository for create a calculator using html, css & js or react js
 
-Deployed app:- https://vercel.com/amruta2001/lgm-task-4/CpN3BYtLpUqb3GjaQ6HRFoEqjGAb
+Deployed app:- https://lgm-task-4.vercel.app/
 
 Preview:-
 
